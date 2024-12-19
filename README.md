@@ -10,27 +10,25 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
+## Overview
 
 ### Screenshots
-![alt text](about-active.png)
-![alt text](features-active.png)
-![alt text](company-active.png)
-![alt text](learnmore-active.png)
-![alt text](login-active.png)
-![alt text](main-view.png)
-![alt text](register-active.png)
+![main-view](https://github.com/user-attachments/assets/974cf36e-18ce-41c6-b4ca-1379ea469bd8)
+![login-active](https://github.com/user-attachments/assets/8cfd6640-0418-40ff-9906-54c6871a4de3)
+![learnmore-active](https://github.com/user-attachments/assets/2718ff92-18fe-4a5e-ba14-f29018b2edc0)
+![features-active](https://github.com/user-attachments/assets/658c8705-0bd1-4252-a323-99533f706f42)
+![company-active](https://github.com/user-attachments/assets/be7f46e9-8721-49fd-ad1c-9ad3ae44599d)
+![about-active](https://github.com/user-attachments/assets/9da19a1c-11ca-46e1-b141-8425686c7657)
+![register-active](https://github.com/user-attachments/assets/da65bb67-d30d-4ba1-90bf-4e7d08599558)
+
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://eniola-tech.github.io/lita-web-development-mentorship/]
 
-## My process
+## My Process
 
 ### Built with
 
@@ -38,5 +36,3 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - CSS custom properties
 - CSS Grid
 - Javascript
-
-### What I learned
